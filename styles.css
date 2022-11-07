@@ -1,14 +1,21 @@
-* {
-    font-style: roboto;
+html {
+    background-color: #1F2937;
 }
 
-#page-top {
+.page-top {
+    padding-top: 1%;
     display: flex;
     justify-content: space-around;
     margin: 10px 30px;
+    color: #E5E7EB;
+    font-family: roboto;
+    font-size: 14px;
+    align-items: center;
 }
 
 #logo {
     flex-grow: stretch;
     flex-basis: 50%;
+    font-weight: bold;
+    font-size: 18px;
 }
