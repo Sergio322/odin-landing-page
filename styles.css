@@ -5,6 +5,7 @@
 #page-top {
     display: flex;
     justify-content: space-around;
+    margin: 10px 30px;
 }
 
 #logo {
